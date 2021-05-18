@@ -9,15 +9,15 @@ from TamilBots.TamilBots import ignore_blacklisted_users
 from TamilBots.sql.chat_sql import add_chat_to_db
 
 start_text = """
-வணக்கம்! [{}](tg://user?id={}),
+Welcome! [{}](tg://user?id={}),
 
-நான் SongPlayRoBot! [🎶](https://t.me/tamilsongstatus/392)
+Im - 𝕿𝖍𝖊 𝖂𝖔𝖑𝖛𝖊𝖗𝖎𝖓𝖊 - <\𝕺𝖓𝖑𝖎𝖓𝖊/> - [🎶](https://t.me/tamilsongstatus/392)
 
-I'M Music Bot By @TamilBots 🤖
+I'M Music Bot By @The_Wolverine_Of_TG 🤖
 
-உங்களுக்கு தேவையான பாடலின் பெயரை அனுப்பவும்... 🥰🤗🥰
+Send Name Of the Song Which You Want... 🥰🤗🥰
 
-எ.கா :- ```/song Kanave Kanave```
+E.g :- ```/song Kanave Kanave```
 """
 
 owner_help = """
